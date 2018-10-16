@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     public LayoutInflater layoutInflater;
     public LinearLayout internal_linearLayout;
     public ArrayList<Contact> contactList;
+    /// this jsafhajsfhkasjdfa
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
